@@ -1,0 +1,34 @@
+Tokenizing
+================================================
+
+Case 1
+-------------------------------------------------
+
+Type a few sentences separated by dot (q - to quit):
+My name is shamim.I am doing final project.I am seneca student
+Phrase #1 is 'My name is shamim'
+Phrase #2 is 'I am doing final project'
+Phrase #3 is 'I am seneca student'
+Type a few sentences separated by dot (q - to quit):
+
+
+
+
+Case 2: (Empty String)
+--------------------------------------------------
+*** Start of Sentences Phrases Demo ***
+Type a few sentences separated by dot (q - to quit):
+
+Type a few sentences separated by dot (q - to quit):
+
+
+
+Case 3:
+-------------------------------------------------
+*** Start of Sentences Phrases Demo ***
+Type a few sentences separated by dot (q - to quit):
+seneca college
+Phrase #1 is 'seneca college'
+Type a few sentences separated by dot (q - to quit):
+
+
