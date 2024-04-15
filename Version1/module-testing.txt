@@ -1,0 +1,30 @@
+Tokenizing
+================================================
+
+Case 1
+-------------------------------------------------
+Type a few words separated by space (q - to quit):
+The Quick Brown Fox Jumpe Over A lazy Dog
+Word #1 is 'The'
+Word #2 is 'Quick'
+Word #3 is 'Brown'
+Word #4 is 'Fox'
+Word #5 is 'Jumpe'
+Word #6 is 'Over'
+Word #7 is 'A'
+Word #8 is 'lazy'
+Word #9 is 'Dog'
+
+
+Case 2: (Empty String)
+--------------------------------------------------
+Type a few words separated by space (q - to quit):
+
+Type a few words separated by space (q - to quit):
+
+Case 3:
+-------------------------------------------------
+Type a few words separated by space (q - to quit):
+Hello
+Word #1 is 'Hello'
+
